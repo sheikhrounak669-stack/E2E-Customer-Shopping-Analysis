@@ -22,13 +22,13 @@ product performance, discounts, and purchasing patterns.
 4. Developed an interactive Power BI dashboard to visualize KPIs and business insights.
 
 Key Analyses:
-> Revenue analysis by customer demographics
-> Product performance based on customer ratings
-> Impact of discounts on purchasing behavior
-> Shipping method and payment preference analysis
-> Seasonal purchasing trends
-> Customer segmentation based on purchase history
-> Average purchase amount across different customer groups
+1. Revenue analysis by customer demographics
+2. Product performance based on customer ratings
+3. Impact of discounts on purchasing behavior
+4. Shipping method and payment preference analysis
+5. Seasonal purchasing trends
+6. Customer segmentation based on purchase history
+7. Average purchase amount across different customer groups
 
 Outcome:
 The project demonstrates an end-to-end data analytics workflow, transforming raw retail transaction data into actionable business insights 
