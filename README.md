@@ -10,9 +10,7 @@ and seasonal trends. The objective is to identify the factors influencing consum
 customer engagement, optimize marketing campaigns, and enhance product strategies.
 
 Tools and Technologies:
-Python (Pandas, SQLAlchemy)
-PostgreSQL
-Power BI
+Python (Pandas, SQLAlchemy), PostgreSQL, Power BI
 
 Project Workflow:
 1. Cleaned and prepared the raw dataset using Python.
